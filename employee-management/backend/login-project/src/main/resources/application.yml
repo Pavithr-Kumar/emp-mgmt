@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: login-project
+    
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    password: Root@123
+    url: jdbc:postgresql://localhost:5432/db_scm
+    username: postgres
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: eren809986@gmail.com
+    password: gyye lytd whoz krmg
+    properties:
+      mail:
+        smtp:
+          ssl:
+           trust: smtp.gmail.com
+          auth: true
+          starttls:
+            enable: true
+

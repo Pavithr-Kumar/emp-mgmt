@@ -1,0 +1,10 @@
+.app {
+  width: 80vw;
+  margin-left: auto;
+  padding-left: 20px;
+  box-sizing: border-box;
+}
+
+.appx {
+  width: 98vw;
+}
