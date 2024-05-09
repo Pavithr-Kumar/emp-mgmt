@@ -1,4 +1,4 @@
-# Full Stack Application: Project Name
+# Full Stack Application: Employee Management
 
 ## Overview
 
